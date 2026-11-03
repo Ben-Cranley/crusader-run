@@ -2,7 +2,7 @@
 
 An endless driving game made in Unity. You steer an armoured car through oncoming traffic, and the game ends when you crash.
 
-**[Play it in your browser](https://ben-cranley.github.io/crusader-run/play/)**
+**[Play it in your browser on Unity Play](https://play.unity.com/en/games/59bd90bf-0012-4005-89e5-e1cd7be5ae29/crusader-run-beta)**
 
 ![Gameplay: title screen, driving, crash and game over](docs/gameplay.gif)
 
@@ -11,7 +11,7 @@ Second-year pair project, Interactive Multimedia, TU Dublin (2024). Built in Uni
 ## Gameplay
 
 - Choose **Easy**, **Medium** or **Hard**. Harder levels spawn traffic faster.
-- Steer left and right with the **arrow keys** or **A / D**. The car tilts as it turns.
+- Steer left and right with the **arrow keys** or **A / D**. The car tilts as it turns. If the controls don't respond in the browser, click the game screen first.
 - You score points for every car you get past.
 - Hit a car and it's game over, with an explosion, a crash sound and a restart button.
 
@@ -38,8 +38,6 @@ The scripts are in [`Project-Beta/Assets/Scripts`](Project-Beta/Assets/Scripts).
 1. Install Unity **2022.3.47f1** (any 2022.3 LTS version should work).
 2. In Unity Hub, click **Add** and open the `Project-Beta` folder.
 3. Open `Assets/Scenes/Project` and press **Play**.
-
-The browser version is in [`docs/play`](docs/play) and is hosted with GitHub Pages.
 
 ## Credits
 
